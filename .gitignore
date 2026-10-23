@@ -1,5 +1,5 @@
 node_modules/
-coverage/
+coverage
 .yarn/cache/
 .yarn/install-state.gz
 package-lock.json
